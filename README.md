@@ -1,4 +1,3 @@
-# Homework Assignment
 
 ## Installation Instructions
 
